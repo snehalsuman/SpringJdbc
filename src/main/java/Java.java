@@ -1,2 +1,2 @@
-public class Java {
+public interface Java {
 }
